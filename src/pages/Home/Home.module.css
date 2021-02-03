@@ -9,6 +9,12 @@
   flex-direction: column;
 }
 
+h6 {
+  font-family: poppins;
+  font-size: 15px;
+  color: rgb(154, 91, 214);
+}
+
 @media only screen and (max-width: 770) {
   .image {
     margin-top: 10px;
